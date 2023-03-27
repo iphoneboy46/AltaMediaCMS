@@ -1,0 +1,9 @@
+input[type="date"]::-webkit-calendar-picker-indicator {
+    display: block;
+    filter: brightness(0) saturate(100%) invert(0%) sepia(0%) saturate(0%) hue-rotate(224deg) brightness(88%) contrast(106%);
+}
+
+
+.custom-inpt { 
+    padding: 10px !important;
+}
